@@ -18,6 +18,8 @@ Every player in PaintBot programs their strategy through a method that takes a s
 
 Read [the documentation](docs.md) to read the rules see what methods can be used.
 
+See `examplegame.py` for a sample game with two sample players, all defined in a single file.
+
 Consider this short, example player code:
 
 ```python
