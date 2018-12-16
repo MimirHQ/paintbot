@@ -38,10 +38,7 @@ If you create a bot player or game with sample players that you want to share wi
 - [x] Includes the author's name, screen name, website link, or other means through which they want to be credited
 - [x] (Preferably) Is contained within a single file, with minimal or no public package dependencies
 
-If this is your first time creating a pull request or you have other questions, feel free to contact the maintainer:
-
-- Vinesh Kannan
-- vinesh [at] mimirhq [dot] com
+If this is your first time creating a pull request or you have other questions, feel free to contact oer@mimirhq.com
 
 ## About
 
